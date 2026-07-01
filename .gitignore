@@ -1,0 +1,15 @@
+# Virtual Environment
+rag_venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Data Lokal (Aplikasi & Database)
+chroma_db/
+dokumen_input/
+
+# File Konfigurasi VS Code atau OS
+.vscode/
+.DS_Store
+Thumbs.db
